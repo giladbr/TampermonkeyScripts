@@ -1,0 +1,8 @@
+.wrapper {
+    max-width: 1200px!important;
+}
+
+li {
+    line-height: 23px!important;
+    margin-bottom: 10px;
+}
