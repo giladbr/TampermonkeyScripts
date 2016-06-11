@@ -1,0 +1,32 @@
+/*Messages pane - since this is "horizontal split" subject and sender will be in 1 line.*/
+
+.nH.age.apP.apk {
+    height: 100%!important;
+    width: 47%;
+}
+/*Preview pane*/
+
+.nH.aNW.apk {
+    width: 52%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%!important;
+}
+/*Selected message in preview pane - to distinguish from unread msgs*/
+
+.aps.zA.yO {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+/*Remove unnecessary margin in the left of the preview pane*/
+
+td.Bu.y3 {
+    display: none;
+}
+
+/*Prevent mails from being too wide on the left*/
+table.Bs.nH.ao9.id.UG * {
+    max-width: 875px;
+}
