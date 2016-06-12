@@ -14,3 +14,7 @@ p {
 body {
     line-height: 18px!important;
 }
+
+h2 {
+    margin-top: 30px;
+}
